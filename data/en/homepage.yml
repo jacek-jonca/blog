@@ -102,20 +102,39 @@ skill:
   skill_list:
     # skill item loop
     - name : "Data Aanalysis"
-      parcentage : "80%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      parcentage : "75%"
-      
-    # skill item loop
-    - name : "Research"
-      parcentage : "98%"
-      
-    # skill item loop
-    - name : "Information Technology"
       parcentage : "85%"
+      
+    # skill item loop
+    - name : "Strategic Planning"
+      parcentage : "85%"
+      
+    # skill item loop
+    - name : "Decision-making"
+      parcentage : "95%"
+      
+    # skill item loop
+    - name : "Critical Thinking"
+      parcentage : "85%"
+      
+    # skill item loop
+    - name : "Aanalytical Skills"
+      parcentage : "95%"
 
+    # skill item loop
+    - name : "Communication Skills & Marketing"
+      parcentage : "90%"
+
+    # skill item loop
+    - name : "Interpersonal Skills"
+      parcentage : "85%"
+      
+    # skill item loop
+    - name : "Leadership & Management"
+      parcentage : "85%"
+            
+    # skill item loop
+    - name : "Flexibility, & Adaptability"
+      parcentage : "95%"
 
 ################################### Service ##############################3
 service:
