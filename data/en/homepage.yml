@@ -64,7 +64,36 @@ experience:
       company : "Texas Tech University"
       duration : "2003-2018"
       content : "Recruited prospective graduate students nationwide. Provided nationwide outreach and forged partnerships with other institutions. Helped develop recruitment plans. Troubleshot complex admissions issues. Evaluated domestic and international transcripts. Assisted in analysis, reporting, and predictive modeling of graduate admissions data. Designed marketing materials."
+      
+    # experience item loop
+    - name : "Director, Graduate School & Graduate Center"
+      company : "Texas Tech University"
+      duration : "2002-2014"
+      content : "Established and developed the Graduate Center. Secured seed and recurring funding, gathered input from university stakeholders and incorporated it into the designs. Managed design teams. Budgeted and planned construction of the center. Developed career, academic, and professional development opportunities matching the demands of the market. Promoted center and developed marketing campaigns. Forged partnerships with the university stakeholders, and campus entities."
+      
+    # experience item loop
+    - name : "Unit Coordinator, Graduate School & Division of Student Affairs"
+      company : "Texas Tech University"
+      duration : "2011-2012"
+      content : "Developed programming targeting graduate & international students. Developed the graduate student government. Advised the Division of Student Affairs on issues affecting graduate and international students."
+      
+    # experience item loop
+    - name : "Graduate Part-Time Instructor"
+      company : "Texas Tech University"
+      duration : "2003-2009"
+      content : "Taught Cognitive Science, Statistics, Research Methods, and Gneneral Psychology."
 
+    # experience item loop
+    - name : "Assistant Undergraduate Advisor"
+      company : "Texas Tech University"
+      duration : "2007-2009"
+      content : "Advised students on paths to graduation and guided them through developing their degree plans."
+
+    # experience item loop
+    - name : "Research Associate"
+      company : "Indiana University"
+      duration : "2001-2002"
+      content : "Conducted research on attitudes towards smoking and potential paths to improving smoking cessation,"
 
 ############################### Skill #################################
 skill:
@@ -72,20 +101,20 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      parcentage : "98%"
+    - name : "Data Aanalysis"
+      parcentage : "80%"
       
     # skill item loop
     - name : "Graphic Design"
+      parcentage : "75%"
+      
+    # skill item loop
+    - name : "Research"
+      parcentage : "98%"
+      
+    # skill item loop
+    - name : "Information Technology"
       parcentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
-      parcentage : "90%"
-      
-    # skill item loop
-    - name : "Wordpress"
-      parcentage : "70%"
 
 
 ################################### Service ##############################3
