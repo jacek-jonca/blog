@@ -1,12 +1,13 @@
 ########################## hero area ##########################
 hero:
-  title : "I'm Somrat Sorkar"
+  title : "I am Jacek Jońca-Jasiński"
 
   # animated text loop
   occupations:
-    - "Web Developer"
-    - "Graphic Designer"
-    - "Database Manager"
+    - "Consultant"
+    - "Data Scientist"
+    - "Leader"
+    - "Educator"
 
   # slider background image loop
   slider_image:
@@ -25,8 +26,8 @@ hero:
 fullscreen_nav:
   enable : true
   bg_image : "images/backgrounds/full-nav-bg.jpg"
-  first_name : "MacGyver"
-  last_name : "SOMRAT"
+  first_name : "Jacek"
+  last_name : "Jońca-Jasiński"
   
 
 ########################### About ##################################
@@ -34,7 +35,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me............😊"
+  content : "I am a Texas based consultant, leader, and a fan of crunching data. I help organizations grow and help people live happier, healthier, and more fulfilling lives. I established and lead the Graduate Center and the Office of Postdoctoral Affairs at Texas Tech University. I hold master's degree in Social Psychology and a doctoral degree in Neuroimaging. I am a rock climber, cyclist, (whole) foodie, fan of diversity, and lover of travel, adventure, and anything involving the great outdoors. "
   # button
   button:
     enable : true
@@ -47,22 +48,22 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Data Scientist"
+      company : "Noscemus"
+      duration : "2018-present"
+      content : "Advises clients on an array of decisions including optimization and data-driven organizational change. Facilitates systems integration and advises on best practices in cybersecurity."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
+    - name : "Director, Division of Graduate and Postdoctoral Affairs"
+      company : "Texas Tech University"
       duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+      content : "Managed operations of the Graduate Center. Hired and supervised employees. Developed budgets. Planned, developed, and coordinated student services. Created social, well-being/health promotion, multi-cultural, career, and professional development programming. Worked with institutional and community partners to facilitate student retention and development. Served as a student advocate and provided consultations to students on academic progress, career growth, and interpersonal issues. Triaged with other campus entities to help resolve student issues. Initiated and developed new international agreements. Developed marketing and outreach campaigns."
+      
+    # experience item loop
+    - name : "Graduate Recruiter, Office of Graduate & International Admissions"
+      company : "Texas Tech University"
+      duration : "2003-2018"
+      content : "Recruited prospective graduate students nationwide. Provided nationwide outreach and forged partnerships with other institutions. Helped develop recruitment plans. Troubleshot complex admissions issues. Evaluated domestic and international transcripts. Assisted in analysis, reporting, and predictive modeling of graduate admissions data. Designed marketing materials."
 
 
 ############################### Skill #################################
@@ -121,7 +122,7 @@ service:
 call_to_action:
   enable : true
   bg_image : "images/backgrounds/need-service.jpg"
-  title : "NEED A SERVICE?"
+  title : "NEED HELP?"
   button:
     enable : true
     label : "SAY HELLO!"
