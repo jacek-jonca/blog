@@ -1,7 +1,7 @@
 #!/bin/bash
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 git clone https://github.com/jacek-jonca/jacek-jonca.github.io.git
-cp -ap /public/. /jacek-jonca.github.io/
+cp -ap ./public/. ./jacek-jonca.github.io/
 cd jacek-jonca.github.io
 git remote set-url origin https://jacek-jonca:${GH_TOKEN}@github.com/jacek-jonca/jacek-jonca.github.io.git
 #if [ -n "$GH_TOKEN" ]
