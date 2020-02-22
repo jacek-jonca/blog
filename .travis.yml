@@ -1,0 +1,19 @@
+---
+env:
+  global:
+  - GIT_NAME: Travis CI
+  - GIT_EMAIL: builds@travis-ci.org
+  - TRAVIS_REPO_SLUG: jacek-jonca/jacek-jonca.github.io
+  - GIT_BRANCH: master
+  - secure: ${GH_TOKEN}
+install:
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.65.2/hugo_0.65.2_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.65.2_Linux-64bit.deb
+script:
+  - hugo
+deploy:
+  - provider: script
+    script: ./deploy.sh
+    skip_cleanup: true
+    on:
+      branch: master
