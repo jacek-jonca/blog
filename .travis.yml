@@ -13,7 +13,7 @@ install:
 script:
   - hugo
   - git config --global credential.helper store
-  - ps: Add-Content "$HOME\.git-credentials" "https://${GH_TOKEN}:x-oauth-basic@github.com`n"
+  - ps: Add-Content "$HOME\.git-credentials" "https://${GH_TOKEN}:x-oauth-basic@github.com\n"
   - git config --global user.email "${GIT_EMAIL}"
   - git config --global user.name "${GIT_NAME}"
   - git config --global push.default simple
