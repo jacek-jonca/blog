@@ -7,20 +7,17 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
+  path: data/en
   label: Data (en)
   create: all
   match: "**/*"
+  new_doc_ext: yaml
 - type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
+  path: i18n
   label: i18n
   create: documents
   match: "**/*"
+  new_doc_ext: yaml
 - type: heading
   label: Configuration
 - type: directory
