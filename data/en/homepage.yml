@@ -169,7 +169,7 @@ skill:
 
     # skill item loop
     - name : "Graphic Design"
-      parcentage : "70%"
+      parcentage : "65%"
 
 ################################### Service ##############################3
 service:
