@@ -314,26 +314,38 @@ testimonial:
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
-    - name : "Micheal Clark"
+    - name : "Gloria Park"
       image : "images/clients/client1.jpg"
-      designation : "CEO, RANDOM COMPANY"
+      designation : "MANAGING PARTNER, NEST FINANCIAL"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
                 
     # slider item loop
-    - name : "Peter Parker"
+    - name : "Noe Lopez"
       image : "images/clients/client2.jpg"
-      designation : "CEO, RANDOM COMPANY"
+      designation : "INVESTMENT ADVISOR, FORT WEALTH MANAGEMENT"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
                 
     # slider item loop
-    - name : "Jessica Jones"
+    - name : "Amy Kim"
       image : "images/clients/client3.jpg"
-      designation : "CEO, RANDOM COMPANY"
+      designation : "UNIVERSITY OF TEXAS AT PERMIAN BASIN GALLERY DIRECTOR"
+      content : "I think you were one of the best administrators I knew at Tech."
+
+    # slider item loop
+    - name : "Peggy Gordon Miller"
+      image : "images/clients/client5.jpg"
+      designation : "PRESIDENT EMERITA, SOUTH DAKOTA STATE UNIVERSITY"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
 
+    # slider item loop
+    - name : "Hermel Johnson"
+      image : "images/clients/client4.jpg"
+      designation : "FOUNDER, IRS TAX SOLUTIONS"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
 
 ######################### funfacts #############################3
 funfacts:
