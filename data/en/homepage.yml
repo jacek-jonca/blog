@@ -321,6 +321,13 @@ testimonial:
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
                 
     # slider item loop
+    - name : "Peggy Gordon Miller"
+      image : "images/clients/client6.jpg"
+      designation : "PRESIDENT EMERITA, SOUTH DAKOTA STATE UNIVERSITY"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+    # slider item loop
     - name : "Noe Lopez"
       image : "images/clients/client2.jpg"
       designation : "INVESTMENT ADVISOR, FORT WEALTH MANAGEMENT"
@@ -334,16 +341,23 @@ testimonial:
       content : "I think you were one of the best administrators I knew at Tech."
 
     # slider item loop
-    - name : "Peggy Gordon Miller"
-      image : "images/clients/client5.jpg"
-      designation : "PRESIDENT EMERITA, SOUTH DAKOTA STATE UNIVERSITY"
+    - name : "Ian Wilkinson"
+      image : "images/clients/client4.jpg"
+      designation : "DIRECTOR, TECHNOLOGY SUPPORT SERVICES, TEXAS TECH UNIVERSITY"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
 
     # slider item loop
     - name : "Hermel Johnson"
-      image : "images/clients/client4.jpg"
+      image : "images/clients/client5.jpg"
       designation : "FOUNDER, IRS TAX SOLUTIONS"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
+                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+
+    # slider item loop
+    - name : "Siddesh Prabhu Malkarnekar"
+      image : "images/clients/client7.jpg"
+      designation : "ETL PENTAHO DEVELOPER, CNN / TURNER BROADCASTING"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
 
