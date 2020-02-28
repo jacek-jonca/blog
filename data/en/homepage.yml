@@ -124,7 +124,7 @@ skill:
   title : "SKILLS"
   skill_list:
     # skill item loop
-    - name : "Data Aanalysis"
+    - name : "Data Analysis"
       parcentage : "85%"
       
     # skill item loop
@@ -342,14 +342,14 @@ testimonial:
 
     # slider item loop
     - name : "Ian Wilkinson"
-      image : "images/clients/client4.jpg"
+      image : "images/clients/client5.jpg"
       designation : "DIRECTOR, TECHNOLOGY SUPPORT SERVICES, TEXAS TECH UNIVERSITY"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
 
     # slider item loop
     - name : "Hermel Johnson"
-      image : "images/clients/client5.jpg"
+      image : "images/clients/client4.jpg"
       designation : "FOUNDER, IRS TAX SOLUTIONS"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
                 omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
@@ -371,19 +371,19 @@ funfacts:
       count : "100"
       
     # funfacts item loop
-    - name : "HAPPY CLIENT"
+    - name : "HAPPY CUSTOMER CHECK-INS PER YEAR"
       image : "images/icons/happy.png"
-      count : "200"
+      count : "38,000"
       
     # funfacts item loop
-    - name : "FINISHED PROJECT"
+    - name : "PROJECTS PER YEAR"
       image : "images/icons/project.png"
       count : "250"
       
     # funfacts item loop
-    - name : "CUPS OF COFFEE"
+    - name : "CUPS OF COFFEE SERVED PER YEAR"
       image : "images/icons/coffee.png"
-      count : "150"
+      count : "10,000"
 
 
 ############################## contact ###########################
