@@ -86,7 +86,7 @@ logo_dark = "images/logo-dark.png"
 description = "Jacek Jonca-Jasinski webpage"
 author = "Jacek Jonca-Jasinski"
 # contact form action
-contact_form_action = "moqldnby" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/moqldnby" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "UA-5302655-1" # your id
 
@@ -125,5 +125,5 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = ""
+copyright = "Jacek Jońca-Jasiński"
 
