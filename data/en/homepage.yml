@@ -373,7 +373,7 @@ funfacts:
     # funfacts item loop
     - name : "HAPPY CUSTOMER CHECK-INS PER YEAR"
       image : "images/icons/happy.png"
-      count : "38,000"
+      count : "38000"
       
     # funfacts item loop
     - name : "PROJECTS PER YEAR"
@@ -383,7 +383,7 @@ funfacts:
     # funfacts item loop
     - name : "CUPS OF COFFEE SERVED PER YEAR"
       image : "images/icons/coffee.png"
-      count : "10,000"
+      count : "10000"
 
 
 ############################## contact ###########################
