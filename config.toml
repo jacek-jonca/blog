@@ -86,9 +86,9 @@ logo_dark = "images/logo-dark.png"
 description = "Jacek Jonca-Jasinski webpage"
 author = "Jacek Jonca-Jasinski"
 # contact form action
-contact_form_action = "" # contact form works with https://formspree.io
+contact_form_action = "moqldnby" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-5302655-1" # your id
 
 # Preloader
 [params.preloader]
