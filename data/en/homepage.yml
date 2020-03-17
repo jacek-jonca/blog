@@ -353,12 +353,12 @@ funfacts:
   enable : true
   funfacts_list:
     # funfacts item loop
-    - name : "HANDS TO WORK"
+    - name : "YEARS OF EXPERIENCE"
       image : "images/icons/works.png"
-      count : "100"
+      count : "16"
       
     # funfacts item loop
-    - name : "HAPPY CUSTOMER CHECK-INS PER YEAR"
+    - name : "CUSTOMER CHECK-INS PER YEAR"
       image : "images/icons/happy.png"
       count : "38000"
       
@@ -368,7 +368,7 @@ funfacts:
       count : "250"
       
     # funfacts item loop
-    - name : "CUPS OF COFFEE SERVED PER YEAR"
+    - name : "CUPS OF COFFEE I SERVED PER YEAR"
       image : "images/icons/coffee.png"
       count : "10000"
 
