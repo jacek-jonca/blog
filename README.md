@@ -1,6 +1,8 @@
+# Hyde website
+
 [![Build Status](https://img.shields.io/travis/jacek-jonca/blog?style=for-the-badge)](https://travis-ci.org/jacek-jonca/blog)
 
-NOTES:
+## NOTES:
 
 If using shell scripts chmod +x ./*.sh
 
