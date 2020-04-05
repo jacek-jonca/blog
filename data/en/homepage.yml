@@ -328,25 +328,25 @@ portfolio:
     - name : "Mardi <br> Gras"
       image : "images/portfolio/item21.jpg"
       date : "Feb 2018"
-      category : "Services"
+      category : "Events"
       
     # portfolio item loop
     - name : "Pool <br> Night"
       image : "images/portfolio/item22.jpg"
       date : "Feb 2013"
-      category : "Services"
+      category : "Events"
       
     # portfolio item loop
     - name : "Bike <br> Night"
       image : "images/portfolio/item23.jpg"
       date : "Feb 2018"
-      category : "Services"
+      category : "Events"
       
     # portfolio item loop
     - name : "Career <br> Development"
       image : "images/portfolio/item24.png"
       date : "Feb 2018"
-      category : "Services"
+      category : "Events"
 
 ################################# Testimonial #########################33
 testimonial:
