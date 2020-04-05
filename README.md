@@ -12,4 +12,3 @@ set $GH_TOKEN at https://travis-ci.org/jacek-jonca/blog/settings
 
 COMPILED site: https://jonca.org
 
-
