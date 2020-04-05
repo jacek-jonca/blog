@@ -248,13 +248,13 @@ portfolio:
       
     # portfolio item loop
     - name : "LinkedIn <br> Headshots"
-      image : "images/portfolio/item8.jpg"
+      image : "images/portfolio/item8.png"
       date : "Feb 2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Graduate <br> Assembly"
-      image : "images/portfolio/item9.jpg"
+      image : "images/portfolio/item9.png"
       date : "Feb 2018"
       category : "Services"
       
@@ -324,6 +324,29 @@ portfolio:
       date : "Feb 2018"
       category : "Services"
 
+    # portfolio item loop
+    - name : "Mardi <br> Gras"
+      image : "images/portfolio/item21.jpg"
+      date : "Feb 2018"
+      category : "Services"
+      
+    # portfolio item loop
+    - name : "Pool <br> Night"
+      image : "images/portfolio/item22.jpg"
+      date : "Feb 2013"
+      category : "Services"
+      
+    # portfolio item loop
+    - name : "Bike <br> Night"
+      image : "images/portfolio/item23.jpg"
+      date : "Feb 2018"
+      category : "Services"
+      
+    # portfolio item loop
+    - name : "Career <br> Development"
+      image : "images/portfolio/item24.png"
+      date : "Feb 2018"
+      category : "Services"
 
 ################################# Testimonial #########################33
 testimonial:
