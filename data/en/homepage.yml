@@ -205,94 +205,124 @@ portfolio:
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Research <br> Assistance"
       image : "images/portfolio/item1.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Statistical <br> Consulting"
       image : "images/portfolio/item2.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Dissertation <br> Formatting"
       image : "images/portfolio/item3.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Institutional <br> Review Board"
       image : "images/portfolio/item4.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Never <br> Give Up!"
       image : "images/portfolio/item5.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Food <br> Pantry"
       image : "images/portfolio/item6.jpg"
       date : "Feb 2018"
-      category : "Web Development"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Graduate <br> Leadership"
       image : "images/portfolio/item7.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item8.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Graduate <br> Assembly"
       image : "images/portfolio/item9.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item10.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Large Format <br> Printshop"
       image : "images/portfolio/item11.jpg"
       date : "Feb 2018"
-      category : "Database"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item12.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item13.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Conflict <br> Resolution"
       image : "images/portfolio/item14.jpg"
-      date : "Feb 2018"
-      category : "Graphics"
+      date : "Feb 2015"
+      category : "Services"
       
     # portfolio item loop
-    - name : "Project <br> Title"
+    - name : "Research <br> Certificate"
       image : "images/portfolio/item15.jpg"
       date : "Feb 2018"
-      category : "Graphics"
+      category : "Services"
+      
+    # portfolio item loop
+    - name : "Peer <br> Support"
+      image : "images/portfolio/item16.jpg"
+      date : "Feb 2015"
+      category : "Services"
+      
+    # portfolio item loop
+    - name : "Remote <br> Unlock"
+      image : "images/portfolio/item17.jpg"
+      date : "Feb 2018"
+      category : "Services"
+      
+    # portfolio item loop
+    - name : "Walking <br> Group"
+      image : "images/portfolio/item18.jpg"
+      date : "Feb 2013"
+      category : "Services"
+      
+    # portfolio item loop
+    - name : "LinkedIn <br> Headshots"
+      image : "images/portfolio/item19.jpg"
+      date : "Feb 2018"
+      category : "Services"
+      
+    # portfolio item loop
+    - name : "Graduate <br> Center"
+      image : "images/portfolio/item20.jpg"
+      date : "Feb 2018"
+      category : "Services"
 
 
 ################################# Testimonial #########################33
