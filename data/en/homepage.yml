@@ -368,7 +368,7 @@ funfacts:
       count : "250"
       
     # funfacts item loop
-    - name : "CUPS OF COFFEE I SERVED PER YEAR"
+    - name : "CUPS OF COFFEE SERVED PER YEAR"
       image : "images/icons/coffee.png"
       count : "10000"
 
