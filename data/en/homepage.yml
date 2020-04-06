@@ -293,7 +293,13 @@ portfolio:
       image : "images/portfolio/item15.png"
       date : "2018"
       category : "Services"
-      
+
+    # portfolio item loop
+    - name : "Graduate <br> Elections"
+      image : "images/portfolio/item16.png"
+      date : "2014"
+      category : "Events"
+
     # portfolio item loop
     - name : "Remote <br> Unlock"
       image : "images/portfolio/item17.jpg"
