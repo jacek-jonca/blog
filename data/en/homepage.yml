@@ -207,145 +207,223 @@ portfolio:
     # portfolio item loop
     - name : "Research <br> Assistance"
       image : "images/portfolio/item1.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Statistical <br> Consulting"
       image : "images/portfolio/item2.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Dissertation <br> Formatting"
       image : "images/portfolio/item3.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Institutional <br> Review Board"
       image : "images/portfolio/item4.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Never <br> Give Up!"
       image : "images/portfolio/item5.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Food <br> Pantry"
       image : "images/portfolio/item6.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Graduate <br> Leadership"
       image : "images/portfolio/item7.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item8.png"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Graduate <br> Assembly"
       image : "images/portfolio/item9.png"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item10.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Large Format <br> Printshop"
       image : "images/portfolio/item11.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item12.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item13.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Conflict <br> Resolution"
       image : "images/portfolio/item14.jpg"
-      date : "Feb 2015"
+      date : "2015"
       category : "Services"
       
     # portfolio item loop
     - name : "Research <br> Certificate"
       image : "images/portfolio/item15.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Peer <br> Support"
       image : "images/portfolio/item16.jpg"
-      date : "Feb 2015"
+      date : "2015"
       category : "Services"
       
     # portfolio item loop
     - name : "Remote <br> Unlock"
       image : "images/portfolio/item17.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Walking <br> Group"
       image : "images/portfolio/item18.jpg"
-      date : "Feb 2013"
+      date : "2013"
       category : "Services"
       
     # portfolio item loop
     - name : "LinkedIn <br> Headshots"
       image : "images/portfolio/item19.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
       
     # portfolio item loop
     - name : "Graduate <br> Center"
       image : "images/portfolio/item20.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Services"
 
     # portfolio item loop
     - name : "Mardi <br> Gras"
       image : "images/portfolio/item21.jpg"
-      date : "Feb 2018"
-      category : "Events"
-      
-    # portfolio item loop
-    - name : "Pool <br> Night"
-      image : "images/portfolio/item22.jpg"
-      date : "Feb 2013"
+      date : "2018"
       category : "Events"
       
     # portfolio item loop
     - name : "Bike <br> Night"
+      image : "images/portfolio/item22.png"
+      date : "2013"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Pool <br> Night"
       image : "images/portfolio/item23.jpg"
-      date : "Feb 2018"
+      date : "2018"
       category : "Events"
       
     # portfolio item loop
     - name : "Career <br> Development"
       image : "images/portfolio/item24.png"
-      date : "Feb 2018"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Mardi <br> Gras"
+      image : "images/portfolio/item25.jpg"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Skeletour"
+      image : "images/portfolio/item26.png"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Cricket <br> Tournament"
+      image : "images/portfolio/item27.png"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Egg <br> Hunt"
+      image : "images/portfolio/item28.jpg"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Art <br> Trail"
+      image : "images/portfolio/item29.jpg"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Ugly <br> Sweater"
+      image : "images/portfolio/item30.jpg"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Easter <br> Bash"
+      image : "images/portfolio/item31.jpg"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "World <br> Cup"
+      image : "images/portfolio/item32.jpg"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Wellness <br> Month"
+      image : "images/portfolio/item33.jpg"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Wellness <br> Day"
+      image : "images/portfolio/item34.png"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Welcome <br> Week"
+      image : "images/portfolio/item35.png"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Welcome <br> Back"
+      image : "images/portfolio/item36.jpg"
+      date : "2016"
+      category : "Events"
+      
+    # portfolio item loop
+    - name : "Welcome <br> Week"
+      image : "images/portfolio/item37.png"
+      date : "2016"
       category : "Events"
 
 ################################# Testimonial #########################33
