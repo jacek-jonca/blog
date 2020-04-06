@@ -504,6 +504,47 @@ portfolio:
       date : "2016"
       category : "Events"
 
+    # portfolio item loop
+    - name : "Thanksgiving"
+      image : "images/portfolio/item51.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Astronomy"
+      image : "images/portfolio/item52.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Trivia"
+      image : "images/portfolio/item53.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Social"
+      image : "images/portfolio/item54.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Pantry"
+      image : "images/portfolio/item55.jpg"
+      date : "2016"
+      category : "Services"
+
+    # portfolio item loop
+    - name : "Food <br> Drive"
+      image : "images/portfolio/item56.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Support <br> Group"
+      image : "images/portfolio/item57.jpg"
+      date : "2016"
+      category : "Services"
 ################################# Testimonial #########################33
 testimonial:
   enable : true
