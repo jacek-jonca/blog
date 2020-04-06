@@ -598,13 +598,13 @@ portfolio:
     - name : "Prof <br> Dev't"
       image : "images/portfolio/item67.jpg"
       date : "2015"
-      category : "Workshop"
+      category : "Workshops"
 
           # portfolio item loop
     - name : "Open <br> Carry"
       image : "images/portfolio/item68.jpg"
       date : "2015"
-      category : "Workshop"
+      category : "Workshops"
 
           # portfolio item loop
     - name : "Career <br> Fair"
