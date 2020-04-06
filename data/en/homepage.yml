@@ -68,7 +68,7 @@ experience:
     # experience item loop
     - name : "Director, <br> Graduate School & Graduate Center"
       company : "Texas Tech University"
-      duration : "2002-2014"
+      duration : "2012-2014"
       content : "Established and developed the Graduate Center. Secured seed and recurring funding, gathered input from university stakeholders and incorporated it into the designs. Managed design teams. Budgeted and planned construction of the center. Developed career, academic, and professional development opportunities matching the demands of the market. Promoted center and developed marketing campaigns. Forged partnerships with stakeholders and campus entities."
       
     # experience item loop
@@ -94,29 +94,6 @@ experience:
       company : "Indiana University"
       duration : "2001-2002"
       content : "Part of the team conducting longitudinal study of socioeconomic factors affecting tobacco consumption. Conducted research on attitudes towards smoking and paths to smoking cessation."
-
-############################ Education ##############################
-education:
-  enable : true
-  title : "EDUCATION"
-  education_list:
-    # education item loop
-    - degree : "Ph.D."
-      major : "Experimental Psychology, Neuroimaging"
-      school : "Texas Tech University"
-      graduation : "2011"
-
-    # education item loop
-    - degree : "M.A."
-      major : "Experimental Psychology, Social Psychology"
-      school : "Texas Tech University"
-      graduation : "2006"
-
-    # education item loop
-    - degree : "B.A. (equiv.)"
-      major : "Psychology"
-      school : "University of Wroclaw"
-      graduation : "2001"
 
 ############################### Skill #################################
 skill:
@@ -170,6 +147,29 @@ skill:
     # skill item loop
     - name : "Graphic Design"
       parcentage : "65%"
+
+############################ Education ##############################
+education:
+  enable : true
+  title : "EDUCATION"
+  education_list:
+    # education item loop
+    - name : "Doctor of Philosophy"
+      degree : "Experimental Psychology, Neuroimaging"
+      school : "Texas Tech University"
+      graduation : "2011"
+
+    # education item loop
+    - name : "Master of Arts"
+      degree : "Psychology, Social Psychology"
+      school : "Texas Tech University"
+      graduation : "2006"
+
+    # education item loop
+    - name : "Bachellor of Arts"
+      degree : "Psychology, Industrial/Organizational Psychology"
+      school : "University of Wroclaw"
+      graduation : "2001"
 
 ################################### Service ##############################3
 service:
