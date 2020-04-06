@@ -545,6 +545,32 @@ portfolio:
       image : "images/portfolio/item57.jpg"
       date : "2016"
       category : "Services"
+
+    # portfolio item loop
+    - name : ""
+      image : "images/portfolio/item58.jpg"
+      date : "2016"
+      category : "Workshops"
+
+    # portfolio item loop
+    - name : ""
+      image : "images/portfolio/item59.jpg"
+      date : "2016"
+      category : "Workshops"
+
+    # portfolio item loop
+    - name : ""
+      image : "images/portfolio/item60.jpg"
+      date : "2016"
+      category : "Workshops"
+
+    # portfolio item loop
+    - name : ""
+      image : "images/portfolio/item61.jpg"
+      date : "2016"
+      category : "Workshops"
+
+
 ################################# Testimonial #########################33
 testimonial:
   enable : true
