@@ -425,6 +425,84 @@ portfolio:
       image : "images/portfolio/item37.png"
       date : "2016"
       category : "Events"
+      
+    # portfolio item loop
+    - name : "Gypsy <br> Jane"
+      image : "images/portfolio/item38.png"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Halloween"
+      image : "images/portfolio/item39.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Concert <br> Series"
+      image : "images/portfolio/item40.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Nuclear <br> Security"
+      image : "images/portfolio/item41.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Oktoberfest"
+      image : "images/portfolio/item42.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Pizza"
+      image : "images/portfolio/item43.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Relax <br> Lounge"
+      image : "images/portfolio/item44.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Art <br> Trail"
+      image : "images/portfolio/item45.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Leadership"
+      image : "images/portfolio/item46.png"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Soccer"
+      image : "images/portfolio/item47.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Book <br> Signing"
+      image : "images/portfolio/item48.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Summer <br> Party"
+      image : "images/portfolio/item49.jpg"
+      date : "2016"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Taxes"
+      image : "images/portfolio/item50.jpg"
+      date : "2016"
+      category : "Events"
 
 ################################# Testimonial #########################33
 testimonial:
