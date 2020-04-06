@@ -290,14 +290,8 @@ portfolio:
       
     # portfolio item loop
     - name : "Research <br> Certificate"
-      image : "images/portfolio/item15.jpg"
+      image : "images/portfolio/item15.png"
       date : "2018"
-      category : "Services"
-      
-    # portfolio item loop
-    - name : "Peer <br> Support"
-      image : "images/portfolio/item16.jpg"
-      date : "2015"
       category : "Services"
       
     # portfolio item loop
