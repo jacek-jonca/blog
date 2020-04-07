@@ -345,7 +345,7 @@ portfolio:
     - name : "Career <br> Devt"
       image : "images/portfolio/item24.jpg"
       date : "2016"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
       
     # portfolio item loop
     - name : "Mardi <br> Gras"
@@ -354,7 +354,7 @@ portfolio:
       category : "Events"
       
     # portfolio item loop
-    - name : "Skeletour"
+    - name : "Skele <br> tour"
       image : "images/portfolio/item26.png"
       date : "2016"
       category : "Events"
@@ -447,7 +447,7 @@ portfolio:
     - name : "Nuclear <br> Security"
       image : "images/portfolio/item41.jpg"
       date : "2016"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
     - name : "Oktober <br> fest"
@@ -489,7 +489,7 @@ portfolio:
     - name : "Book <br> Signing"
       image : "images/portfolio/item48.jpg"
       date : "2016"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
     - name : "Summer <br> Party"
@@ -501,7 +501,7 @@ portfolio:
     - name : "Taxes"
       image : "images/portfolio/item50.jpg"
       date : "2016"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
     - name : "Thanks <br> giving"
@@ -546,28 +546,28 @@ portfolio:
       category : "Services"
 
     # portfolio item loop
-    - name : ""
+    - name : "Mind"
       image : "images/portfolio/item58.jpg"
       date : "2016"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
-    - name : ""
+    - name : "Emotions"
       image : "images/portfolio/item59.jpg"
       date : "2016"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
-    - name : ""
+    - name : "Distress"
       image : "images/portfolio/item60.jpg"
       date : "2016"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
-    - name : ""
+    - name : "Conflict"
       image : "images/portfolio/item61.jpg"
       date : "2016"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
     - name : "Art <br> Trail"
@@ -603,25 +603,25 @@ portfolio:
     - name : "Prof <br> Dev't"
       image : "images/portfolio/item67.jpg"
       date : "2015"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
           # portfolio item loop
     - name : "Open <br> Carry"
       image : "images/portfolio/item68.jpg"
       date : "2015"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
           # portfolio item loop
     - name : "Career <br> Fair"
       image : "images/portfolio/item69.jpg"
       date : "2015"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
           # portfolio item loop
     - name : "Career <br> Tees"
       image : "images/portfolio/item70.jpg"
       date : "2015"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
     - name : "Social"
@@ -633,7 +633,7 @@ portfolio:
     - name : "Bootcamp"
       image : "images/portfolio/item72.jpg"
       date : "2014"
-      category : "Workshops"
+      category : "Events" #category : "Workshops"
 
     # portfolio item loop
     - name : "Art <br> Trail"
@@ -648,7 +648,7 @@ portfolio:
       category : "Events"
 
     # portfolio item loop
-    - name : "Meeting"
+    - name : "Grad <br> Leaders"
       image : "images/portfolio/item75.png"
       date : "2014"
       category : "Events"
