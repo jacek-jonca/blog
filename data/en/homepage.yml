@@ -343,7 +343,7 @@ portfolio:
       
     # portfolio item loop
     - name : "Career <br> Development"
-      image : "images/portfolio/item24.png"
+      image : "images/portfolio/item24.jpg"
       date : "2016"
       category : "Workshops"
       
