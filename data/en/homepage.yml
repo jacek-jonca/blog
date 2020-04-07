@@ -166,9 +166,9 @@ education:
       graduation : "2006"
 
     # education item loop
-    - name : "Bachellor of Arts"
+    - name : "Bachelor of Arts (equiv.)"
       degree : "Psychology, Industrial/Organizational Psychology"
-      school : "University of Wroclaw"
+      school : "University of Wrocław"
       graduation : "2001"
 
 ################################### Service ##############################3
@@ -662,22 +662,19 @@ testimonial:
     - name : "Gloria Park"
       image : "images/clients/client1.jpg"
       designation : "MANAGING PARTNER, NEST FINANCIAL"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      content : "Coming soon!"
                 
     # slider item loop
     - name : "Peggy Gordon Miller"
       image : "images/clients/client6.jpg"
       designation : "PRESIDENT EMERITA, SOUTH DAKOTA STATE UNIVERSITY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      content : "Coming soon!"
 
     # slider item loop
     - name : "Noe Lopez"
       image : "images/clients/client2.jpg"
       designation : "INVESTMENT ADVISOR, FORT WEALTH MANAGEMENT"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      content : "Coming soon!"
                 
     # slider item loop
     - name : "Amy Kim"
@@ -689,22 +686,19 @@ testimonial:
     - name : "Ian Wilkinson"
       image : "images/clients/client5.jpg"
       designation : "DIRECTOR, TECHNOLOGY SUPPORT SERVICES, TEXAS TECH UNIVERSITY"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      content : "Coming soon!"
 
     # slider item loop
     - name : "Hermel Johnson"
       image : "images/clients/client4.jpg"
       designation : "FOUNDER, IRS TAX SOLUTIONS"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      content : "Coming soon!"
 
     # slider item loop
     - name : "Siddesh Prabhu Malkarnekar"
       image : "images/clients/client7.jpg"
       designation : "DEVELOPER, CNN / TURNER BROADCASTING"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad,
-                omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+      content : "Coming soon!"
 
 ######################### funfacts #############################3
 funfacts:
