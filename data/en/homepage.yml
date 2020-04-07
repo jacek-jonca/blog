@@ -641,6 +641,18 @@ portfolio:
       date : "2014"
       category : "Events"
 
+    # portfolio item loop
+    - name : "Vote"
+      image : "images/portfolio/item74.png"
+      date : "2014"
+      category : "Events"
+
+    # portfolio item loop
+    - name : "Meeting"
+      image : "images/portfolio/item75.png"
+      date : "2014"
+      category : "Events"
+
 ################################# Testimonial #########################33
 testimonial:
   enable : true
