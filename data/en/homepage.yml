@@ -60,7 +60,7 @@ experience:
       content : "Managed operations of the Graduate Center. Hired and supervised employees. Developed budgets. Planned, developed, and coordinated services. Created programming. Worked with institutional and community partners to facilitate student retention and development. Initiated and developed new international agreements. Developed marketing and outreach campaigns."
       
     # experience item loop
-    - name : "Graduate Recruiter, <br> Office of Graduate & International Admissions"
+    - name : "Grad Recruiter, <br> Office of Graduate & International Admissions"
       company : "Texas Tech University"
       duration : "2003-2018"
       content : "Recruited prospective graduate students nationwide. Provided nationwide outreach and forged partnerships with other institutions. Helped develop recruitment plans. Troubleshot complex admissions issues. Assisted in analysis, reporting, and predictive modeling of graduate admissions data. Designed marketing materials."
@@ -84,7 +84,7 @@ experience:
       content : "Advised students on paths to graduation and guided them through developing their degree plans."
 
     # experience item loop
-    - name : "Graduate Part-Time Instructor"
+    - name : "Grad Part-Time Instructor"
       company : "Texas Tech University"
       duration : "2003-2009"
       content : "Taught Cognitive Science, Statistics, Research Methods, and Geneneral Psychology."
@@ -204,19 +204,19 @@ portfolio:
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
-    - name : "Research <br> Assistance"
+    - name : "Research <br> Assist"
       image : "images/portfolio/item1.jpg"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "Statistical <br> Consulting"
+    - name : "Stats <br> Consults"
       image : "images/portfolio/item2.jpg"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "Dissertation <br> Formatting"
+    - name : "Thesis <br> Help"
       image : "images/portfolio/item3.jpg"
       date : "2018"
       category : "Services"
@@ -240,61 +240,61 @@ portfolio:
       category : "Services"
       
     # portfolio item loop
-    - name : "Graduate <br> Leadership"
+    - name : "Grad <br> Leaders"
       image : "images/portfolio/item7.jpg"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "LinkedIn <br> Headshots"
+    - name : "LinkedIn <br> Shots"
       image : "images/portfolio/item8.png"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "Graduate <br> Assembly"
+    - name : "Grad <br> Leaders"
       image : "images/portfolio/item9.png"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "LinkedIn <br> Headshots"
+    - name : "LinkedIn <br> Shots"
       image : "images/portfolio/item10.jpg"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "Large Format <br> Printshop"
+    - name : "Large Format <br> Prints"
       image : "images/portfolio/item11.jpg"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "LinkedIn <br> Headshots"
+    - name : "LinkedIn <br> Shots"
       image : "images/portfolio/item12.jpg"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "LinkedIn <br> Headshots"
+    - name : "LinkedIn <br> Shots"
       image : "images/portfolio/item13.jpg"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "Conflict <br> Resolution"
+    - name : "Conflict <br> Help"
       image : "images/portfolio/item14.jpg"
       date : "2015"
       category : "Services"
       
     # portfolio item loop
-    - name : "Research <br> Certificate"
+    - name : "Research <br> Certs"
       image : "images/portfolio/item15.png"
       date : "2018"
       category : "Services"
 
     # portfolio item loop
-    - name : "Graduate <br> Elections"
+    - name : "Grads <br> Vote"
       image : "images/portfolio/item16.png"
       date : "2014"
       category : "Events"
@@ -312,13 +312,13 @@ portfolio:
       category : "Services"
       
     # portfolio item loop
-    - name : "LinkedIn <br> Headshots"
+    - name : "LinkedIn <br> Shots"
       image : "images/portfolio/item19.jpg"
       date : "2018"
       category : "Services"
       
     # portfolio item loop
-    - name : "Graduate <br> Center"
+    - name : "Grad <br> Center"
       image : "images/portfolio/item20.jpg"
       date : "2018"
       category : "Services"
@@ -342,7 +342,7 @@ portfolio:
       category : "Events"
       
     # portfolio item loop
-    - name : "Career <br> Development"
+    - name : "Career <br> Devt"
       image : "images/portfolio/item24.jpg"
       date : "2016"
       category : "Workshops"
@@ -360,7 +360,7 @@ portfolio:
       category : "Events"
       
     # portfolio item loop
-    - name : "Cricket <br> Tournament"
+    - name : "Cricket <br> Masters"
       image : "images/portfolio/item27.png"
       date : "2016"
       category : "Events"
@@ -432,7 +432,7 @@ portfolio:
       category : "Events"
 
     # portfolio item loop
-    - name : "Halloween"
+    - name : "Hall <br> -o- <br> oween"
       image : "images/portfolio/item39.jpg"
       date : "2016"
       category : "Events"
@@ -450,7 +450,7 @@ portfolio:
       category : "Workshops"
 
     # portfolio item loop
-    - name : "Oktoberfest"
+    - name : "Oktober <br> fest"
       image : "images/portfolio/item42.jpg"
       date : "2016"
       category : "Events"
@@ -474,7 +474,7 @@ portfolio:
       category : "Events"
 
     # portfolio item loop
-    - name : "Leadership"
+    - name : "Grad <br> Leaders"
       image : "images/portfolio/item46.png"
       date : "2016"
       category : "Events"
@@ -504,13 +504,13 @@ portfolio:
       category : "Workshops"
 
     # portfolio item loop
-    - name : "Thanksgiving"
+    - name : "Thanks <br> giving"
       image : "images/portfolio/item51.jpg"
       date : "2016"
       category : "Events"
 
     # portfolio item loop
-    - name : "Astronomy"
+    - name : "Astro <br> Party"
       image : "images/portfolio/item52.jpg"
       date : "2016"
       category : "Events"
@@ -582,7 +582,7 @@ portfolio:
       category : "Events"
 
     # portfolio item loop
-    - name : "Graduate <br> Center"
+    - name : "Grad <br> Center"
       image : "images/portfolio/item64.jpg"
       date : "2016"
       category : "Services"
