@@ -210,7 +210,7 @@ portfolio:
       category : "Services"
       
     # portfolio item loop
-    - name : "Stats <br> Consults"
+    - name : "Stats <br> Consult"
       image : "images/portfolio/item2.jpg"
       date : "2018"
       category : "Services"
@@ -222,7 +222,7 @@ portfolio:
       category : "Services"
       
     # portfolio item loop
-    - name : "Institutional <br> Review Board"
+    - name : "Ethics"
       image : "images/portfolio/item4.jpg"
       date : "2018"
       category : "Services"
