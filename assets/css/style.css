@@ -1435,6 +1435,7 @@ ul.experience-chart h4 {
   position: relative;
   text-align: center;
   color: #6f6f6f;
+  font-family: 'League Spartan Variable', sans-serif;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -1546,6 +1547,7 @@ ul.experience-chart h4 {
   font-size: 14px;
   margin-top: -10px;
   color: #6f6f6f;
+  font-family: 'League Spartan Variable', sans-serif;
   font-weight: 700;
 }
 
@@ -1598,7 +1600,9 @@ ul.experience-chart h4 {
   position: relative;
   text-align: center;
   color: #fff;
+  font-family: 'League Spartan Variable';
   font-weight: 700;
+  text-transform: uppercase;
   letter-spacing: 2px;
 }
 
@@ -1736,6 +1740,10 @@ textarea.form-control::-webkit-input-placeholder,
   right: 0;
   text-align: center;
   color: #fff;
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 1px;
 }
 
 /*--------------------------------
