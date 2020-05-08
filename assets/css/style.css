@@ -2,6 +2,12 @@
    Start Preloader & General Styling
 ----------------------------------*/
 
+@font-face {
+  font-family: 'League Spartan Variable';
+  src: url('/plugins/LeagueSpartan/LeagueSpartanVariable.woff2') format('woff2-variations');
+  font-weight: 500 800;
+}
+
 html {
   height: 100%;
 }
@@ -11,7 +17,7 @@ html {
 }
 
 body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   height: 100%;
 }
 
@@ -256,7 +262,7 @@ body {
   height: 100%;
   color: white;
   font-size: 30px;
-  font-family: 'Rubik', sans-serif !important;
+  font-family: 'League Spartan Variable', sans-serif !important;
   font-weight: 300;
   z-index: 10;
 }
@@ -268,7 +274,7 @@ body {
 
 .introduction {
   font-size: 60px;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .typist-blink:after {
@@ -286,9 +292,10 @@ body {
   margin-top: 18px;
   text-decoration: none;
   color: white;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'League Spartan Variable';
+  font-weight: 700;
+  text-transform: uppercase;
   font-size: 19px;
-  font-weight: 500;
   border: 2px solid white;
   padding: 5px 18px;
   -webkit-transition: all 0.2s;
@@ -379,7 +386,7 @@ input:checked + label span:last-child {
   display: none;
   z-index: 11;
   color: #fff;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'League Spartan Variable', sans-serif;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -436,7 +443,7 @@ input:checked + label span:last-child {
 
 .last-name {
   font-size: 100px;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1;
   margin-bottom: 42px;
 }
@@ -510,7 +517,7 @@ input:checked + label span:last-child {
 
 .fullscreen-nav-holder a {
   color: white;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'League Spartan Variable', sans-serif;
   font-size: 20px;
   font-weight: 500;
   text-decoration: none;
@@ -691,6 +698,8 @@ input:checked + label span:last-child {
   text-decoration: none;
   color: #fff;
   font-size: 17px;
+  font-family: 'League Spartan Variable';
+  text-transform: uppercase;
   -webkit-transition: color 1s;
   transition: color 1s;
 }
@@ -859,6 +868,8 @@ input:checked + label span:last-child {
 .about-me-text h1 {
   position: relative;
   color: #6f6f6f;
+  font-family: 'League Spartan Variable';
+  text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 2px;
 }
@@ -881,6 +892,7 @@ input:checked + label span:last-child {
 .download-cv {
   text-decoration: none;
   color: #4d4d4d;
+  font-family: 'League Spartan Variable';
   font-weight: 700;
   margin-top: 15px;
   display: inline-block;
@@ -934,7 +946,9 @@ input:checked + label span:last-child {
 .experience h3,
 .skill h3 {
   color: #6f6f6f;
+  font-family: 'League Spartan Variable';
   font-weight: 700;
+  text-transform: uppercase;
   letter-spacing: 2px;
 }
 
@@ -978,12 +992,17 @@ ul.experience-chart h4 {
   font-size: 19px;
   margin-top: 0;
   margin-bottom: 4px;
+  font-family: 'League Spartan Variable';
   font-weight: 700;
+  text-transform: uppercase;
   color: #4d4d4d;
 }
 
 .experience-chart li span {
-  font-weight: 700;
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 1px;
   color: #6f6f6f;
 }
 
@@ -1044,7 +1063,9 @@ ul.experience-chart h4 {
 .skill-bar-percent {
   font-size: 16px;
   color: #4d4d4d;
+  font-family: 'League Spartan Variable';
   font-weight: 700;
+  text-transform: uppercase;
   display: inline-block;
   margin-bottom: 7px;
 }
@@ -1083,7 +1104,9 @@ ul.experience-chart h4 {
 .services-heading h1 {
   color: #6f6f6f;
   text-align: center;
+  font-family: 'League Spartan Variable';
   font-weight: 700;
+  text-transform: uppercase;
   letter-spacing: 4px;
   margin-bottom: 80px;
   position: relative;
@@ -1128,6 +1151,8 @@ ul.experience-chart h4 {
   right: 0;
   top: 100px;
   text-align: center;
+  text-transform: uppercase;
+  font-family: 'League Spartan Variable';
   font-weight: 700;
   letter-spacing: -0.5px;
   font-size: 19px;
@@ -1144,6 +1169,8 @@ ul.experience-chart h4 {
   background-attachment: fixed;
   position: relative;
   text-align: center;
+  font-family: 'League Spartan Variable';
+  text-transform: uppercase;
 }
 
 .need-service:after {
@@ -1206,7 +1233,9 @@ ul.experience-chart h4 {
 .portfolio h1 {
   color: #6f6f6f;
   text-align: center;
+  font-family: 'League Spartan Variable';
   font-weight: 700;
+  text-transform: uppercase;
   letter-spacing: 4px;
   position: relative;
 }
@@ -1265,6 +1294,8 @@ ul.experience-chart h4 {
   color: #6f6f6f;
   font-weight: 700;
   margin: 0 5px;
+  font-family: 'League Spartan Variable';
+  text-transform: uppercase;
 }
 
 .portfolio-navigation li.active {
@@ -1318,7 +1349,7 @@ ul.experience-chart h4 {
 
 .item-caption h2 {
   font-size: 32px;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'League Spartan Variable', sans-serif;
   font-weight: 700;
   padding-left: 13px;
 }
@@ -1726,6 +1757,9 @@ textarea.form-control::-webkit-input-placeholder,
   }
   .head-holder .hireMe {
     margin-top: 10px;
+    font-family: 'League Spartan Variable';
+    font-weight: 700;
+    text-transform: uppercase;
     font-size: 18px;
     padding: 3px 12px;
   }
@@ -1827,7 +1861,7 @@ textarea.form-control::-webkit-input-placeholder,
   }
   .last-name {
     font-size: 70px;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 0;
     margin-top: 28px;
     margin-bottom: 28px;
@@ -1879,6 +1913,9 @@ textarea.form-control::-webkit-input-placeholder,
     margin-top: 10px;
     font-size: 16px;
     padding: 3px 12px;
+    font-family: 'League Spartan Variable';
+    font-weight: 700;
+    text-transform: uppercase;
   }
 }
 
@@ -1893,6 +1930,9 @@ textarea.form-control::-webkit-input-placeholder,
     margin-top: 10px;
     font-size: 16px;
     padding: 3px 12px;
+    font-family: 'League Spartan Variable';
+    font-weight: 700;
+    text-transform: uppercase;
   }
   .head-container {
     display: block;
