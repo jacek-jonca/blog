@@ -275,6 +275,7 @@ body {
 .introduction {
   font-size: 60px;
   font-weight: 700;
+  text-transform: uppercase;
 }
 
 .typist-blink:after {
@@ -1757,6 +1758,7 @@ textarea.form-control::-webkit-input-placeholder,
   .introduction {
     font-size: 45px;
     margin-bottom: 5px;
+    text-transform: uppercase;
   }
   .animated-text {
     font-size: 21px;
@@ -1913,6 +1915,7 @@ textarea.form-control::-webkit-input-placeholder,
 @media (min-height: 301px) and (max-height: 500px) {
   .introduction {
     font-size: 35px;
+    text-transform: uppercase;
   }
   .animated-text {
     font-size: 18px;
