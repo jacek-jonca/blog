@@ -964,6 +964,7 @@ ul.experience-chart li {
   border-left: 2px solid #6f6f6f;
   padding-bottom: 10px;
   position: relative;
+  line-height: 2.75em;
 }
 
 ul.experience-chart li:last-child {
@@ -1015,6 +1016,85 @@ ul.experience-chart h4 {
   position: relative;
   top: -2px;
 }
+
+/* ========= Start Education ======= */
+
+.education-skill {
+  margin-top: 40px;
+}
+
+.education h3,
+.skill h3 {
+  color: #6f6f6f;
+  font-family: 'League Spartan Variable';
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.education-chart {
+  list-style: none;
+  padding: 0px 0px 0px 6px;
+  margin-top: 40px;
+}
+
+ul.education-chart li {
+  padding-left: 30px;
+  border-left: 2px solid #6f6f6f;
+  padding-bottom: 10px;
+  position: relative;
+}
+
+ul.education-chart li:last-child {
+  padding-bottom: 0;
+}
+
+ul.education-chart li:after {
+  position: absolute;
+  top: -1px;
+  left: -12px;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #4d4d4d;
+  background: #fff;
+  content: '';
+  -webkit-transition: all 0.3s;
+  transition: all 0.7s;
+}
+
+ul.education-chart li:hover:after {
+  background: #4d4d4d;
+}
+
+ul.education-chart h4 {
+  font-size: 19px;
+  margin-top: 0;
+  margin-bottom: 4px;
+  font-family: 'League Spartan Variable';
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #4d4d4d;
+}
+
+.education-chart li span {
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #6f6f6f;
+}
+
+.education-chart li p {
+  color: #6f6f6f;
+}
+
+.single-experience {
+  position: relative;
+  top: -2px;
+}
+
 
 /* ========= Start Skill ======= */
 

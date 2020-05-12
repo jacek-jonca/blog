@@ -250,12 +250,12 @@
     
           {{ if $data.homepage.education.enable }}
           {{ with $data.homepage.education }}
-          <div class="experience wow fadeInUp" data-wow-duration="1.5s">
+          <div class="education wow fadeInUp" data-wow-duration="1.5s">
             <h3>{{ .title }}</h3>
-            <ul class="experience-chart">
+            <ul class="education-chart">
               {{ range .education_list }}
               <li>
-                <div class="single-experience">
+                <div class="single-education">
                   <h4>{{ .name | markdownify }}</h4>
                   {{ with .degree }} <span>{{ . | markdownify }}</span> {{ end }}
                   <br>{{ with .school }} <span>{{ . | markdownify }}</span> {{ end }}
