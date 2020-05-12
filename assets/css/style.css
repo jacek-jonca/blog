@@ -1090,11 +1090,10 @@ ul.education-chart h4 {
   color: #6f6f6f;
 }
 
-.single-experience {
+.single-education {
   position: relative;
   top: -2px;
 }
-
 
 /* ========= Start Skill ======= */
 
@@ -2131,10 +2130,12 @@ textarea.form-control::-webkit-input-placeholder,
     display: flex;
     flex-wrap: wrap;
   }
-  .experience-skill {
+  .experience-skill,
+  .education-skill {
     margin-top: 10px;
   }
   .experience-chart,
+  .education-chart,
   .skill-progress-bar {
     margin-top: 25px;
   }
