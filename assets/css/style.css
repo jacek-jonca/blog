@@ -964,7 +964,6 @@ ul.experience-chart li {
   border-left: 2px solid #6f6f6f;
   padding-bottom: 10px;
   position: relative;
-  line-height: 2.75em;
 }
 
 ul.experience-chart li:last-child {
@@ -1006,6 +1005,7 @@ ul.experience-chart h4 {
   font-weight: 600;
   letter-spacing: 1px;
   color: #6f6f6f;
+  line-height: 2.75em;
 }
 
 .experience-chart li p {
