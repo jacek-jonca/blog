@@ -52,7 +52,7 @@ experience:
     - name : "Data Scientist"
       company : "Noscemus"
       duration : "2018-present"
-      content : "Advises clients on an array of decisions including optimization and data-driven organizational change. Facilitates systems integration and advises on best practices in cybersecurity."
+      content : "I advises clients on an array of decisions including optimization of organizational processes and data-driven organizational change. I facilitate systems integration and advise on best practices in cybersecurity."
       
     # experience item loop
     - name : "Director, <br> Division of Graduate and Postdoctoral Affairs"
