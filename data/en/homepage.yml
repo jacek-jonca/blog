@@ -169,7 +169,7 @@ education:
     # education item loop
     - name : "Bachelor of Arts (equiv.)"
       degree : "Psychology, Industrial/Organizational Psychology"
-      school : "University of Wrocław"
+      school : "University of Wrocław / University of North Carolina at Charlotte"
       graduation : "2001"
 
 ################################### Service ##############################3
