@@ -36,7 +36,7 @@ about:
   enable : true
   image : "images/backgrounds/portrait.jpg"
   title : "KNOW MORE <br> ABOUT ME"
-  content : "I am a strategic advisor, consultant, and a data scientist. I help organizations grow and help people live happier, healthier, and more fulfilling lives. In my past life I established and lead the Graduate Center and the Office of Postdoctoral Affairs at Texas Tech University. I hold a doctoral degree in Neuroimaging and a master's degree in Social Psychology (small groups, organizational behavior). I am a rock climber, cyclist, (whole) foodie, fan of diversity, and a lover of travel, adventure, and anything involving the great outdoors. "
+  content : "I am a strategic advisor, consultant, and a data scientist. I help organizations grow and help people live happier, healthier, and more fulfilling lives. In my past life I established and lead the Graduate Center and the Office of Postdoctoral Affairs at Texas Tech University. I hold a doctoral degree in neuroimaging and a master's degree in social psychology (small groups, organizational behavior). I am a rock climber, cyclist, (whole) foodie, a fan of diversity, and a lover of travel, adventure, and anything involving the great outdoors. "
   # button
   button:
     enable : true
