@@ -161,10 +161,22 @@ education:
       graduation : "2011"
 
     # education item loop
+    - name : "Multi-modal Neuroimaging Training Fellowship"
+      degree : "Carnegie Mellon University"
+      school : "University of Pittsburgh"
+      graduation : "2007"
+
+    # education item loop
     - name : "Master of Arts"
       degree : "Psychology, Social Psychology"
       school : "Texas Tech University"
       graduation : "2006"
+
+    # education item loop
+     - name : "APA Advanced Training Institute Fellow"
+       degree : "Massachusetts General Hospital"
+       school : "Harvard Medical School"
+       graduation : "2005"
 
     # education item loop
     - name : "Bachelor of Arts (equiv.)"
