@@ -173,10 +173,10 @@ education:
       graduation : "2006"
 
     # education item loop
-     - name : "APA Advanced Training Institute Fellow"
-       degree : "Massachusetts General Hospital"
-       school : "Harvard Medical School"
-       graduation : "2005"
+    - name : "APA Fellow, Advanced Training Institute in Functional Magnetic Resonance Imaging"
+      degree : "Massachusetts General Hospital"
+      school : "Harvard Medical School"
+      graduation : "2005"
 
     # education item loop
     - name : "Bachelor of Arts (equiv.)"
