@@ -11,7 +11,7 @@ disableLanguages = [] # desable language from here
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/fonts/fonts.css"
+link = "plugins/fonts/fonts.min.css"
 [[params.plugins.css]]
 link = "plugins/fontawesome/font-awesome.min.css"
 [[params.plugins.css]]
