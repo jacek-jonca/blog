@@ -11,6 +11,8 @@ disableLanguages = [] # desable language from here
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
+link = "plugins/fonts/fonts.css"
+[[params.plugins.css]]
 link = "plugins/fontawesome/font-awesome.min.css"
 [[params.plugins.css]]
 link = "plugins/hover/hover.css"
@@ -22,10 +24,10 @@ link = "plugins/owl-carousel/owl.carousel.min.css"
 link = "plugins/owl-carousel/owl.theme.default.min.css"
 [[params.plugins.css]]
 link = "plugins/text-animation/text-animation.css"
-[[params.plugins.css]]
+#[[params.plugins.css]]
 #link = "plugins/sztylet/sztylet.css"
 #link = "https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap"
-link = "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&display=swap"
+#link = "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&display=swap"
 
 # JS Plugins
 [[params.plugins.js]]
